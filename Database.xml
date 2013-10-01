@@ -1,0 +1,943 @@
+<Element>
+	<Name>Hydrogen</Name>
+	<Symbol>H</Symbol>
+	<Classification>OtherNonMetal</Classification>
+	<AtomicNumber>1</AtomicNumber>
+	<AtomicMass>1.008</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Helium</Name>
+	<Symbol>He</Symbol>
+	<Classification>NobleGas</Classification>
+	<AtomicNumber>2</AtomicNumber>
+	<AtomicMass>4.002602</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Lithium</Name>
+	<Symbol>Li</Symbol>
+	<Classification>AlkaliMetal</Classification>
+	<AtomicNumber>3</AtomicNumber>
+	<AtomicMass>6.94</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Beryllium</Name>
+	<Symbol>Be</Symbol>
+	<Classification>AlkalineEarthMetal</Classification>
+	<AtomicNumber>4</AtomicNumber>
+	<AtomicMass>9.012182</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Boron</Name>
+	<Symbol>B</Symbol>
+	<Classification>Metalloid</Classification>
+	<AtomicNumber>5</AtomicNumber>
+	<AtomicMass>10.811</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Carbon</Name>
+	<Symbol>C</Symbol>
+	<Classification>OtherNonMetal</Classification>
+	<AtomicNumber>6</AtomicNumber>
+	<AtomicMass>12.011</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Nitrogen</Name>
+	<Symbol>N</Symbol>
+	<Classification>OtherNonMetal</Classification>
+	<AtomicNumber>7</AtomicNumber>
+	<AtomicMass>14.00674</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Oxygen</Name>
+	<Symbol>O</Symbol>
+	<Classification>OtherNonMetal</Classification>
+	<AtomicNumber>8</AtomicNumber>
+	<AtomicMass>15.999</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Fluorine</Name>
+	<Symbol>F</Symbol>
+	<Classification>Halogen</Classification>
+	<AtomicNumber>9</AtomicNumber>
+	<AtomicMass>18.998403</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Neon</Name>
+	<Symbol>Ne</Symbol>
+	<Classification>NobleGas</Classification>
+	<AtomicNumber>10</AtomicNumber>
+	<AtomicMass>20.1797</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Sodium</Name>
+	<Symbol>Na</Symbol>
+	<Classification>AlkaliMetal</Classification>
+	<AtomicNumber>11</AtomicNumber>
+	<AtomicMass>22.98976928</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Magnesium</Name>
+	<Symbol>Mg</Symbol>
+	<Classification>AlkalineEarthMetal</Classification>
+	<AtomicNumber>12</AtomicNumber>
+	<AtomicMass>24.305</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Aluminium</Name>
+	<Symbol>Al</Symbol>
+	<Classification>PostTransitionMetal</Classification>
+	<AtomicNumber>13</AtomicNumber>
+	<AtomicMass>26.9815386</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Silicone</Name>
+	<Symbol>Si</Symbol>
+	<Classification>Metalloid</Classification>
+	<AtomicNumber>14</AtomicNumber>
+	<AtomicMass>28.085</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Phosphorus</Name>
+	<Symbol>P</Symbol>
+	<Classification>OtherNonMetal</Classification>
+	<AtomicNumber>15</AtomicNumber>
+	<AtomicMass>30.973762</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Sulfur</Name>
+	<Symbol>S</Symbol>
+	<Classification>OtherNonMetal</Classification>
+	<AtomicNumber>16</AtomicNumber>
+	<AtomicMass>32.06</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Chlorine</Name>
+	<Symbol>Cl</Symbol>
+	<Classification>Halogen</Classification>
+	<AtomicNumber>17</AtomicNumber>
+	<AtomicMass>35.45</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Argon</Name>
+	<Symbol>Ar</Symbol>
+	<Classification>NobleGas</Classification>
+	<AtomicNumber>18</AtomicNumber>
+	<AtomicMass>39.948</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Potassium</Name>
+	<Symbol>K</Symbol>
+	<Classification>AlkaliMetal</Classification>
+	<AtomicNumber>19</AtomicNumber>
+	<AtomicMass>39.0983</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Calcium</Name>
+	<Symbol>Ca</Symbol>
+	<Classification>AlkalineEarthMetal</Classification>
+	<AtomicNumber>20</AtomicNumber>
+	<AtomicMass>40.078</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Scandium</Name>
+	<Symbol>Sc</Symbol>
+	<Classification>TransitionMetal</Classification>
+	<AtomicNumber>21</AtomicNumber>
+	<AtomicMass>44.955910</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Titanium</Name>
+	<Symbol>Ti</Symbol>
+	<Classification>TransitionMetal</Classification>
+	<AtomicNumber>22</AtomicNumber>
+	<AtomicMass>47.867</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Vanadium</Name>
+	<Symbol>V</Symbol>
+	<Classification>TransitionMetal</Classification>
+	<AtomicNumber>23</AtomicNumber>
+	<AtomicMass>50.9415</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Chromium</Name>
+	<Symbol>Cr</Symbol>
+	<Classification>TransitionMetal</Classification>
+	<AtomicNumber>24</AtomicNumber>
+	<AtomicMass>51.9961</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Manganese</Name>
+	<Symbol>Mn</Symbol>
+	<Classification>TransitionMetal</Classification>
+	<AtomicNumber>25</AtomicNumber>
+	<AtomicMass>54.938049</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Iron</Name>
+	<Symbol>Fe</Symbol>
+	<Classification>TransitionMetal</Classification>
+	<AtomicNumber>26</AtomicNumber>
+	<AtomicMass>55.845</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Cobalt</Name>
+	<Symbol>Co</Symbol>
+	<Classification>TransitionMetal</Classification>
+	<AtomicNumber>27</AtomicNumber>
+	<AtomicMass>58.933200</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Nickel</Name>
+	<Symbol>Ni</Symbol>
+	<Classification>TransitionMetal</Classification>
+	<AtomicNumber>28</AtomicNumber>
+	<AtomicMass>58.6934</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Copper</Name>
+	<Symbol>Cu</Symbol>
+	<Classification>CoinageMetal</Classification>
+	<AtomicNumber>29</AtomicNumber>
+	<AtomicMass>63.546</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Zinc</Name>
+	<Symbol>Zn</Symbol>
+	<Classification>VolatileMetal</Classification>
+	<AtomicNumber>30</AtomicNumber>
+	<AtomicMass>65.39</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Gallium</Name>
+	<Symbol>Ga</Symbol>
+	<Classification>PostTransitionMetal</Classification>
+	<AtomicNumber>31</AtomicNumber>
+	<AtomicMass>69.723</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Germanium</Name>
+	<Symbol>Ge</Symbol>
+	<Classification>Metalloid</Classification>
+	<AtomicNumber>32</AtomicNumber>
+	<AtomicMass>72.61</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Arsenic</Name>
+	<Symbol>As</Symbol>
+	<Classification>Metalloid</Classification>
+	<AtomicNumber>33</AtomicNumber>
+	<AtomicMass>74.92160</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Selenium</Name>
+	<Symbol>Se</Symbol>
+	<Classification>OtherNonMetal</Classification>
+	<AtomicNumber>34</AtomicNumber>
+	<AtomicMass>78.96</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Bromine</Name>
+	<Symbol>Br</Symbol>
+	<Classification>Halogen</Classification>
+	<AtomicNumber>35</AtomicNumber>
+	<AtomicMass>79.904</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Krypton</Name>
+	<Symbol>Kr</Symbol>
+	<Classification>NobleGas</Classification>
+	<AtomicNumber>36</AtomicNumber>
+	<AtomicMass>83.80</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Rubidium</Name>
+	<Symbol>Rb</Symbol>
+	<Classification>AlkaliMetal</Classification>
+	<AtomicNumber>37</AtomicNumber>
+	<AtomicMass>85.4678</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Strontium</Name>
+	<Symbol>Sr</Symbol>
+	<Classification>AlkalineEarthMetal</Classification>
+	<AtomicNumber>38</AtomicNumber>
+	<AtomicMass>87.62</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Yttrium</Name>
+	<Symbol>Y</Symbol>
+	<Classification>TransitionMetal</Classification>
+	<AtomicNumber>39</AtomicNumber>
+	<AtomicMass>88.90585</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Zirconium</Name>
+	<Symbol>Zr</Symbol>
+	<Classification>TransitionMetal</Classification>
+	<AtomicNumber>40</AtomicNumber>
+	<AtomicMass>91.224</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Niobium</Name>
+	<Symbol>Nb</Symbol>
+	<Classification>TransitionMetal</Classification>
+	<AtomicNumber>41</AtomicNumber>
+	<AtomicMass>92.90638</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Molybdenum</Name>
+	<Symbol>Mo</Symbol>
+	<Classification>TransitionMetal</Classification>
+	<AtomicNumber>42</AtomicNumber>
+	<AtomicMass>95.94</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Technetium</Name>
+	<Symbol>Tc</Symbol>
+	<Classification>TransitionMetal</Classification>
+	<AtomicNumber>43</AtomicNumber>
+	<AtomicMass>(98)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Ruthenium</Name>
+	<Symbol>Ru</Symbol>
+	<Classification>TransitionMetal</Classification>
+	<AtomicNumber>44</AtomicNumber>
+	<AtomicMass>101.07</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Rhodium</Name>
+	<Symbol>Rh</Symbol>
+	<Classification>TransitionMetal</Classification>
+	<AtomicNumber>45</AtomicNumber>
+	<AtomicMass>102.90550</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Palladium</Name>
+	<Symbol>Pd</Symbol>
+	<Classification>TransitionMetal</Classification>
+	<AtomicNumber>46</AtomicNumber>
+	<AtomicMass>106.42</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Silver</Name>
+	<Symbol>Ag</Symbol>
+	<Classification>CoinageMetal</Classification>
+	<AtomicNumber>47</AtomicNumber>
+	<AtomicMass>107.8682</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Cadmium</Name>
+	<Symbol>Cd</Symbol>
+	<Classification>VolatileMetal</Classification>
+	<AtomicNumber>48</AtomicNumber>
+	<AtomicMass>112.411</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Indium</Name>
+	<Symbol>In</Symbol>
+	<Classification>PostTransitionMetal</Classification>
+	<AtomicNumber>49</AtomicNumber>
+	<AtomicMass>114.818</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Tin</Name>
+	<Symbol>Sn</Symbol>
+	<Classification>PostTransitionMetal</Classification>
+	<AtomicNumber>50</AtomicNumber>
+	<AtomicMass>118.710</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Antimony</Name>
+	<Symbol>Sb</Symbol>
+	<Classification>Metalloid</Classification>
+	<AtomicNumber>51</AtomicNumber>
+	<AtomicMass>121.760</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Tellurium</Name>
+	<Symbol>Te</Symbol>
+	<Classification>Metalloid</Classification>
+	<AtomicNumber>52</AtomicNumber>
+	<AtomicMass>127.60</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Iodine</Name>
+	<Symbol>I</Symbol>
+	<Classification>Halogen</Classification>
+	<AtomicNumber>53</AtomicNumber>
+	<AtomicMass>126.90447</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Xenon</Name>
+	<Symbol>Xe</Symbol>
+	<Classification>NobleGas</Classification>
+	<AtomicNumber>54</AtomicNumber>
+	<AtomicMass>131.29</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Cesium</Name>
+	<Symbol>Cs</Symbol>
+	<Classification>AlkaliMetal</Classification>
+	<AtomicNumber>55</AtomicNumber>
+	<AtomicMass>132.90545</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Barium</Name>
+	<Symbol>Ba</Symbol>
+	<Classification>AlkalineEarthMetal</Classification>
+	<AtomicNumber>56</AtomicNumber>
+	<AtomicMass>137.327</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Lanthanum</Name>
+	<Symbol>La</Symbol>
+	<Classification>Lanthanide</Classification>
+	<AtomicNumber>57</AtomicNumber>
+	<AtomicMass>138.9055</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Cerium</Name>
+	<Symbol>Ce</Symbol>
+	<Classification>Lanthanide</Classification>
+	<AtomicNumber>58</AtomicNumber>
+	<AtomicMass>140.116</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Praseodymium</Name>
+	<Symbol>Pr</Symbol>
+	<Classification>Lanthanide</Classification>
+	<AtomicNumber>59</AtomicNumber>
+	<AtomicMass>140.90765</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Neodymium</Name>
+	<Symbol>Nd</Symbol>
+	<Classification>Lanthanide</Classification>
+	<AtomicNumber>60</AtomicNumber>
+	<AtomicMass>144.24</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Promethium</Name>
+	<Symbol>Pm</Symbol>
+	<Classification>Lanthanide</Classification>
+	<AtomicNumber>61</AtomicNumber>
+	<AtomicMass>(145)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Samarium</Name>
+	<Symbol>Sm</Symbol>
+	<Classification>Lanthanide</Classification>
+	<AtomicNumber>62</AtomicNumber>
+	<AtomicMass>150.36</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Europium</Name>
+	<Symbol>Eu</Symbol>
+	<Classification>Lanthanide</Classification>
+	<AtomicNumber>63</AtomicNumber>
+	<AtomicMass>151.964</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Gadolinium</Name>
+	<Symbol>Gd</Symbol>
+	<Classification>Lanthanide</Classification>
+	<AtomicNumber>64</AtomicNumber>
+	<AtomicMass>157.25</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Terbium</Name>
+	<Symbol>Tb</Symbol>
+	<Classification>Lanthanide</Classification>
+	<AtomicNumber>65</AtomicNumber>
+	<AtomicMass>158.92535</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Dysprosium</Name>
+	<Symbol>Dy</Symbol>
+	<Classification>Lanthanide</Classification>
+	<AtomicNumber>66</AtomicNumber>
+	<AtomicMass>162.50</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Holmium</Name>
+	<Symbol>Ho</Symbol>
+	<Classification>Lanthanide</Classification>
+	<AtomicNumber>67</AtomicNumber>
+	<AtomicMass>164.93032</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Erbium</Name>
+	<Symbol>Er</Symbol>
+	<Classification>Lanthanide</Classification>
+	<AtomicNumber>68</AtomicNumber>
+	<AtomicMass>167.26</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Thulium</Name>
+	<Symbol>Tm</Symbol>
+	<Classification>Lanthanide</Classification>
+	<AtomicNumber>69</AtomicNumber>
+	<AtomicMass>168.93421</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Ytterbium</Name>
+	<Symbol>Yb</Symbol>
+	<Classification>Lanthanide</Classification>
+	<AtomicNumber>70</AtomicNumber>
+	<AtomicMass>173.04</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Lutetium</Name>
+	<Symbol>Lu</Symbol>
+	<Classification>Lanthanide</Classification>
+	<AtomicNumber>71</AtomicNumber>
+	<AtomicMass>174.967</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Hafnium</Name>
+	<Symbol>Hf</Symbol>
+	<Classification>TransitionMetal</Classification>
+	<AtomicNumber>72</AtomicNumber>
+	<AtomicMass>178.49</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Tantalum</Name>
+	<Symbol>Ta</Symbol>
+	<Classification>TransitionMetal</Classification>
+	<AtomicNumber>73</AtomicNumber>
+	<AtomicMass>180.9479</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Tungsten</Name>
+	<Symbol>W</Symbol>
+	<Classification>TransitionMetal</Classification>
+	<AtomicNumber>74</AtomicNumber>
+	<AtomicMass>183.84</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Rhenium</Name>
+	<Symbol>Re</Symbol>
+	<Classification>TransitionMetal</Classification>
+	<AtomicNumber>75</AtomicNumber>
+	<AtomicMass>186.207</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Osmium</Name>
+	<Symbol>Os</Symbol>
+	<Classification>TransitionMetal</Classification>
+	<AtomicNumber>76</AtomicNumber>
+	<AtomicMass>190.23</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Iridium</Name>
+	<Symbol>Ir</Symbol>
+	<Classification>TransitionMetal</Classification>
+	<AtomicNumber>77</AtomicNumber>
+	<AtomicMass>192.217</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Platinum</Name>
+	<Symbol>Pt</Symbol>
+	<Classification>TransitionMetal</Classification>
+	<AtomicNumber>78</AtomicNumber>
+	<AtomicMass>195.078</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Gold</Name>
+	<Symbol>Au</Symbol>
+	<Classification>CoinageMetal</Classification>
+	<AtomicNumber>79</AtomicNumber>
+	<AtomicMass>196.96655</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Mercury</Name>
+	<Symbol>Hg</Symbol>
+	<Classification>VolatileMetal</Classification>
+	<AtomicNumber>80</AtomicNumber>
+	<AtomicMass>200.59</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Thallium</Name>
+	<Symbol>Tl</Symbol>
+	<Classification>PostTransitionMetal</Classification>
+	<AtomicNumber>81</AtomicNumber>
+	<AtomicMass>204.3833</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Lead</Name>
+	<Symbol>Pb</Symbol>
+	<Classification>PostTransitionMetal</Classification>
+	<AtomicNumber>82</AtomicNumber>
+	<AtomicMass>207.2</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Bismuth</Name>
+	<Symbol>Bi</Symbol>
+	<Classification>PostTransitionMetal</Classification>
+	<AtomicNumber>83</AtomicNumber>
+	<AtomicMass>208.98038</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Polonium</Name>
+	<Symbol>Po</Symbol>
+	<Classification>Metalloid</Classification>
+	<AtomicNumber>84</AtomicNumber>
+	<AtomicMass>(209)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Astatine</Name>
+	<Symbol>At</Symbol>
+	<Classification>Halogen</Classification>
+	<AtomicNumber>85</AtomicNumber>
+	<AtomicMass>(210)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Radon</Name>
+	<Symbol>Rn</Symbol>
+	<Classification>NobleGas</Classification>
+	<AtomicNumber>86</AtomicNumber>
+	<AtomicMass>(222)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Francium</Name>
+	<Symbol>Fr</Symbol>
+	<Classification>AlkaliMetal</Classification>
+	<AtomicNumber>87</AtomicNumber>
+	<AtomicMass>(223)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Radium</Name>
+	<Symbol>Ra</Symbol>
+	<Classification>AlkalineEarthMetal</Classification>
+	<AtomicNumber>88</AtomicNumber>
+	<AtomicMass>(226)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Actinium</Name>
+	<Symbol>Ac</Symbol>
+	<Classification>Actinide</Classification>
+	<AtomicNumber>89</AtomicNumber>
+	<AtomicMass>(227)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Thorium</Name>
+	<Symbol>Th</Symbol>
+	<Classification>Actinide</Classification>
+	<AtomicNumber>90</AtomicNumber>
+	<AtomicMass>232.0381</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Protactinium	</Name>
+	<Symbol>Pa</Symbol>
+	<Classification>Actinide</Classification>
+	<AtomicNumber>91</AtomicNumber>
+	<AtomicMass>231.03588</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Uranium</Name>
+	<Symbol>U</Symbol>
+	<Classification>Actinide</Classification>
+	<AtomicNumber>92</AtomicNumber>
+	<AtomicMass>238.0289</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Neptunium</Name>
+	<Symbol>Np</Symbol>
+	<Classification>Actinide</Classification>
+	<AtomicNumber>93</AtomicNumber>
+	<AtomicMass>(237)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Plutonium</Name>
+	<Symbol>Pu</Symbol>
+	<Classification>Actinide</Classification>
+	<AtomicNumber>94</AtomicNumber>
+	<AtomicMass>(244)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Americium</Name>
+	<Symbol>Am</Symbol>
+	<Classification>Actinide</Classification>
+	<AtomicNumber>95</AtomicNumber>
+	<AtomicMass>(243)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Curium</Name>
+	<Symbol>Cm</Symbol>
+	<Classification>Actinide</Classification>
+	<AtomicNumber>96</AtomicNumber>
+	<AtomicMass>(247)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Berkelium</Name>
+	<Symbol>Bk</Symbol>
+	<Classification>Actinide</Classification>
+	<AtomicNumber>97</AtomicNumber>
+	<AtomicMass>(247)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Californium</Name>
+	<Symbol>Cf</Symbol>
+	<Classification>Actinide</Classification>
+	<AtomicNumber>98</AtomicNumber>
+	<AtomicMass>(251)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Einsteinium</Name>
+	<Symbol>Es</Symbol>
+	<Classification>Actinide</Classification>
+	<AtomicNumber>99</AtomicNumber>
+	<AtomicMass>(252)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Fermium</Name>
+	<Symbol>Fm</Symbol>
+	<Classification>Actinide</Classification>
+	<AtomicNumber>100</AtomicNumber>
+	<AtomicMass>(257)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Mendelevium</Name>
+	<Symbol>Md</Symbol>
+	<Classification>Actinide</Classification>
+	<AtomicNumber>101</AtomicNumber>
+	<AtomicMass>(258)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Nobelium</Name>
+	<Symbol>No</Symbol>
+	<Classification>Actinide</Classification>
+	<AtomicNumber>102</AtomicNumber>
+	<AtomicMass>(259)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Lawrencium</Name>
+	<Symbol>Lr</Symbol>
+	<Classification>Actinide</Classification>
+	<AtomicNumber>103</AtomicNumber>
+	<AtomicMass>(262)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Rutherfordium</Name>
+	<Symbol>Rf</Symbol>
+	<Classification>TransitionMetal</Classification>
+	<AtomicNumber>104</AtomicNumber>
+	<AtomicMass>(267)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Dubnium</Name>
+	<Symbol>Db</Symbol>
+	<Classification>TransitionMetal</Classification>
+	<AtomicNumber>105</AtomicNumber>
+	<AtomicMass>(268)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Seaborgium</Name>
+	<Symbol>Sg</Symbol>
+	<Classification>TransitionMetal</Classification>
+	<AtomicNumber>106</AtomicNumber>
+	<AtomicMass>(271)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Bohrium</Name>
+	<Symbol>Bh</Symbol>
+	<Classification>TransitionMetal</Classification>
+	<AtomicNumber>107</AtomicNumber>
+	<AtomicMass>(272)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Hassium</Name>
+	<Symbol>Hs</Symbol>
+	<Classification>TransitionMetal</Classification>
+	<AtomicNumber>108</AtomicNumber>
+	<AtomicMass>(270)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Meitnerium</Name>
+	<Symbol>Mt</Symbol>
+	<Classification>TransitionMetal</Classification>
+	<AtomicNumber>109</AtomicNumber>
+	<AtomicMass>(276)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Darmstadtium</Name>
+	<Symbol>Ds</Symbol>
+	<Classification>TransitionMetal</Classification>
+	<AtomicNumber>110</AtomicNumber>
+	<AtomicMass>(281)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Roentgenium</Name>
+	<Symbol>Rg</Symbol>
+	<Classification>CoinageMetal</Classification>
+	<AtomicNumber>111</AtomicNumber>
+	<AtomicMass>(280)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Copernicium</Name>
+	<Symbol>Cn</Symbol>
+	<Classification>VolatileMetal</Classification>
+	<AtomicNumber>112</AtomicNumber>
+	<AtomicMass>(285)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Ununtrium</Name>
+	<Symbol>Uut</Symbol>
+	<Classification>PostTransitionMetal</Classification>
+	<AtomicNumber>113</AtomicNumber>
+	<AtomicMass>(284)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Flerovium</Name>
+	<Symbol>Fl</Symbol>
+	<Classification>PostTransitionMetal</Classification>
+	<AtomicNumber>114</AtomicNumber>
+	<AtomicMass>(289)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Ununpentium</Name>
+	<Symbol>Uup</Symbol>
+	<Classification>PostTransitionMetal</Classification>
+	<AtomicNumber>115</AtomicNumber>
+	<AtomicMass>(288)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Livermorium</Name>
+	<Symbol>Lv</Symbol>
+	<Classification>PostTransitionMetal</Classification>
+	<AtomicNumber>116</AtomicNumber>
+	<AtomicMass>(293)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Ununseptium</Name>
+	<Symbol>Uus</Symbol>
+	<Classification>Halogen</Classification>
+	<AtomicNumber>117</AtomicNumber>
+	<AtomicMass>(294)</AtomicMass>
+</Element>
+
+<Element>
+	<Name>Ununoctium</Name>
+	<Symbol>Uuo</Symbol>
+	<Classification>NobleGas</Classification>
+	<AtomicNumber>118</AtomicNumber>
+	<AtomicMass>(294)</AtomicMass>
+</Element>
